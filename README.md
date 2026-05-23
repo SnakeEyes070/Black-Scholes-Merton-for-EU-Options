@@ -119,3 +119,5 @@ The price of the put option is: $2.78
 The **Black-Scholes option pricing model** provides a theoretical approach to pricing European-style options and calculating the Greeks to assess the impact of various market factors. By understanding how the Greeks behave, investors can better manage their portfolios and assess risks associated with options trading.
 
 The plots presented here give valuable insights into how the option price changes in response to different factors such as the underlying asset price, time to maturity, volatility, and interest rates.
+
+[https://github.com/SnakeEyes070 ](https://github.com/SnakeEyes070/Black-Scholes-Merton-for-EU-Options)
